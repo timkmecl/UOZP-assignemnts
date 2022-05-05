@@ -1,0 +1,3 @@
+Na voljo imate podatke o vožnjah avtobusov LPP v letu 2012 od začetka januarja do konca novembra. Cilj naloge je zgraditi čim boljši model, ki bo znal iz časa odhoda z začetne postaje napovedati čas prihoda na končno postajo. Vaš model bomo preizkusili na podatkih o avtobusnih vožnjah v decembru 2012. Za dodatna navodila, primere, podatke in oddajo napovedi obiščite stran tekmovanja. POZOR: to tekmovanje uporablja drug URL kot prejšnje.
+
+Napovedovanje vseh linij. Ocenjevali vas bomo glede na rezultat s tekmovanja. Štel bo končni rezultat; na sprotni lestvici vidite kvaliteto napovedi na polovici decembrskih dni, končni rezultat, ki ga boste videli šele po koncu tekmovanja, pa bo dobljen na preostali polovici decembra.
